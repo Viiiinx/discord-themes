@@ -84,6 +84,139 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
+
+  .root_bfe55a{
+background: transparent;
+}
+.wrapper_ef3116{
+background: transparent;
+background: rgba(0, 0, 0, 0.1);
+}
+.panels_c48ade{
+background: transparent;
+background: rgba(0, 0, 0, 0.6);
+}
+.channelTextArea_f75fb0 {
+background: transparent;
+background: rgba(0, 0, 0, 0.69);
+}
+.callContainer_cb9592 {
+background: transparent;
+background: rgba(0, 0, 0, 0.5);
+}
+.scroller_affa7e {
+background: transparent;
+background: rgba(0, 0, 0, 0.1);
+}
+.standardSidebarView__23e6b{
+background: transparent;
+background: rgba(0, 0, 0, 0.3);
+}
+.sidebarRegionScroller__23e6b {
+background: transparent;
+background: rgba(0, 0, 0, 0.1);
+}
+.side_b3f026 {
+background: transparent;
+background: rgba(0, 0, 0, 0.3);
+}
+.tabBody__133bf {
+background: transparent;
+}
+.sidebarOpen_cb9592{
+background-color: transparent;
+background: transparent;
+}
+.container__01ae2{
+background: transparent;
+background: rgba(0, 0, 0, 0.1);
+}
+.resizeHandle__01ae2{
+background: transparent;
+background: rgba(0, 0, 0, 0.5);
+}
+.mainPageScroller_ca1a02 {
+background: transparent;
+background:rgba(0, 0, 0, 0.2);
+}
+.wrapper_cb9592.normal_cb9592.video_cb9592{ /for the when u screenshare/
+background: transparent;
+background: rgba(0, 0, 0, 0.4);
+}
+.wrapper_cb9592.noChat_cb9592.video_cb9592 {
+background: transparent;
+}
+.container_ca1a02 {
+background: transparent;
+background: rgba(0, 0, 0, 0.4);
+}
+.channelChatWrapper_cb9592{
+background: transparent;
+}
+.list_f391e3 {
+background: transparent;
+background:rgba(0, 0, 0, 0.4);
+}
+.wrapper_cb9592.fullScreen_cb9592.video_cb9592 {
+background: transparent;
+background: rgba(0, 0, 0, 0.8);
+}
+.callContainer_cb9592.theme-dark.theme-midnight.images-dark {
+background: transparent;
+background:rgba(0, 0, 0, 0.3);
+}
+.layerContainer_da8173 {
+background: transparent;
+}
+.gradientBackground__11664 {
+background: none;
+}
+.backgroundDark__11664.sphere__11664{
+background: none;
+}
+.backgroundLight__11664.sphere__11664 {
+background: none;
+}
+.foregroundRing__11664.sphere__11664{
+background: none;
+}
+.foregroundBase__11664.sphere__11664{
+background: none;
+}
+.homeWrapperNormal__0920e.homeWrapper__0920e{
+background: transparent;
+}
+.page_c48ade .shop__6db1d,
+.page_c48ade .shop__08415,
+.page_c48ade .cardText_c3d04b.darkCardBackground_c3d04b.variantsGroup_c3d04b {
+background: none;
+}
+.wrapper__44df5{
+background: transparent;
+background:rgba(0, 0, 0, 0.6);
+}
+.wrapper_d5f3cd{
+background: transparent;
+background:rgba(0, 0, 0, 0.4);
+}
+.title_c38106{
+background:rgba(0, 0, 0, 0.5);
+}
+.chatHeaderBar_dc83f5{
+background: transparent;
+}
+.header__0b563.container__9293f.themed__9293f,
+.content_f75fb0.container__0b563,
+.pageBody__41ed7,
+.channelRow_e4503a,
+.channelMention.wrapper_f61d60.interactive {
+background: transparent;
+background-color: transparent;
+}
+.channelInfo_c69b6d *{
+background: transparent;
+background: rgba(0, 0, 0, 0.3);
+}
 }
 
 /* Any custom CSS below here */
